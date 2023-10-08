@@ -1,7 +1,7 @@
 function Footer() {
   return (
     <footer>
-      <p>Copyright ⓒ 2023</p>
+      <p>ⓒ John Johriel Rosarda 2023</p>
     </footer>
   );
 }
